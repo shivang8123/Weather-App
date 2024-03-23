@@ -1,4 +1,4 @@
-
+<!--css-->
 
 const userTab = document.querySelector("[data-userWeather]");
 const searchTab = document.querySelector("[data-searchWeather]");
@@ -9,7 +9,7 @@ const searchForm = document.querySelector("[data-searchForm]");
 const loadingScreen = document.querySelector(".loading-container");
 const userInfoContainer = document.querySelector(".user-info-container");
 
-//initially vairables need????
+//initially vairables need??
 
 let oldTab = userTab;
 const API_KEY = "733614fa663f2510df03eaff01bc16cf";
